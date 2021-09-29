@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://admin:admin@cluster0-shard-00-00.l4qmf.mongodb.net:27017,cluster0-shard-00-01.l4qmf.mongodb.net:27017,cluster0-shard-00-02.l4qmf.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-189seh-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "port" : 8000
+}
